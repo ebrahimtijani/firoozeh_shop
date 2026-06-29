@@ -84,7 +84,10 @@
 **ایمیل:** ebrahimtijani17@gmail.com  
 **گیت‌هاب:**  (https://github.com/ebrahimtijani)
 **لینکدین:** [لینک لینکدین شما]
-لینک سایت آنلاین:https://ebrahimtijani.github.io/firoozeh_shop/
+.
+لینک سایت آنلاین:
+.
+ https://ebrahimtijani.github.io/firoozeh_shop/
 
 ## 📅 تاریخ
 8/4/1405
