@@ -1,1 +1,1 @@
-https://https://ebrahimtijani.github.io/firoozeh_shop/
+https://https://ebrahimtijani.github.io/firoozeh_shop/index.html
