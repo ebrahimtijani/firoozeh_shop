@@ -94,3 +94,13 @@
 
 ## 📝 مجوز
 این پروژه برای استفاده شخصی و نمایش در رزومه طراحی شده است.
+## نمونه کارها
+
+### 🏺 فروشگاه بهشت فیروزه‌ای
+یک فروشگاه آنلاین کامل برای فروش فیروزه و زیورآلات
+
+**مشاهده آنلاین:** https://USERNAME.github.io/firoozeh-shop/
+**کد منبع:** https://github.com/USERNAME/firoozeh-shop
+**پنل مدیریت:** https://USERNAME.github.io/firoozeh-shop/admin.html
+
+
